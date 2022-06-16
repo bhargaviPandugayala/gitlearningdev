@@ -1,0 +1,4 @@
+*.log
+/dir/
+imp/dir/
+db.accdb
